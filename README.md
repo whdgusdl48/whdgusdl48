@@ -4,31 +4,15 @@
 
 #### Image Enhancement & Segmentation
 
-### 📚 Work
-
-<img src="https://img.shields.io/badge/ CVLAB LAB @ CNU-EADBC6?style=for-the-badge"/>  
-</a>
-<br>
-<a href="https://hmg-scholar.recruiter.co.kr/appsite/company/callSubPage?code1=4000&code2=4100">
-<img src="https://img.shields.io/badge/ Hyundai R&D Scholarship Student-002C5F?style=for-the-badge&logo=Hyundai&logoColor=white"/>  
-</a>
+### 📚 Current work
+<img src="https://img.shields.io/badge/ CVLAB LAB Ph.D @ CNU-EADBC6?style=for-the-badge"/>  
 
 ### 🏫 Education  
 
-<a href="https://cse.unist.ac.kr/eng/">
-<img src="https://img.shields.io/badge/M.S. Computer Engineering (2022~2024) - UNIST-44c1c4?style=for-the-badge"/>
-</a>
-<br>
-<a href="https://computer.cnu.ac.kr/computer/en/about.do">
+<img src="https://img.shields.io/badge/Ph.D. Artifical intelligence Philosophiæ Doctor Degree (2024~) - CNU-44c1c4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/M.S. Artifical intelligence Master's Degree (2022~2024) - CNU-44c1c4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/B.S. Computer Engineering (2016~2022) - CNU-001c54?style=for-the-badge"/>  
-</a>
-<br>
-<br>
 
-<a href="https://lake-blade-22f.notion.site/Seong-deok-Seo-1a061cd8d6af4cb4a3fa33a066f69a04">
-  Curriculum Vitae
-</a>
-|
-<a href="https://www.linkedin.com/in/seong-deok-seo/">
+<a href="https://www.linkedin.com/in/jong-hyeon-baek-3492ab1b5/">
   LinkedIn
 </a>
