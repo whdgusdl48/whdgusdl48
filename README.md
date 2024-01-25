@@ -9,8 +9,8 @@
 
 ### 🏫 Education  
 
-<img src="https://img.shields.io/badge/Ph.D. Artifical intelligence Philosophiæ Doctor Degree (2024~) - CNU-44c1c4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/M.S. Artifical intelligence Master's Degree (2022~2024) - CNU-44c1c4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ph.D. Artifical intelligence Philosophiæ Doctor Degree (2024~) - CNU-001c54?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/M.S. Artifical intelligence Master's Degree (2022~2024) - CNU-001c54?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/B.S. Computer Engineering (2016~2022) - CNU-001c54?style=for-the-badge"/>  
 
 <a href="https://www.linkedin.com/in/jong-hyeon-baek-3492ab1b5/">
