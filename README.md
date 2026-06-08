@@ -2,7 +2,7 @@
 
 ### 🚗 Task
 
-#### Image Enhancement & Segmentation
+#### My major is image enhancement , video object segmentation and Multi-modal framework
 
 ### 📚 Current work
 <img src="https://img.shields.io/badge/ CVLAB LAB Ph.D @ CNU-EADBC6?style=for-the-badge"/>  
@@ -17,6 +17,6 @@
   LinkedIn
 </a>
 
-### Number Citation in paper 50
+### Number Citation in paper 51
 
 ### Best citation in my paper : Luminance-aware Color Transform For Multiple Exposure Correction (ICCV 2023) 
